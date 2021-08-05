@@ -5,4 +5,6 @@ if(marks>=passMarks){
 }
 else{
     console.log("fail")
+
 }
+////shehab//
